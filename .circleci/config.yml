@@ -36,7 +36,6 @@
 #       # run tests!
 #       - run: yarn test
 
-
  version: 2
  jobs:
    build:
