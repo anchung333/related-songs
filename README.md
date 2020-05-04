@@ -1,7 +1,7 @@
 # related-songs
 This was a project I worked on while at Hack Reactor. I was on a team with 2 other engineers, and we were tasked with implementing a clone of a popular service; in our case we chose Soundcloud. I was in charge of the related songs service, where a user can see 3 songs related to the main song currently displayed/playing on the page, and use their mouse to hover over songs and learn more about the artist, and play the song from that same page. 
 
-![related-songs-image] (https://imgur.com/a/vBUAH8T.png)
+![related-songs-image](https://imgur.com/a/vBUAH8T.png)
 
 ## Technologies
 - React
